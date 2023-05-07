@@ -1,6 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* This sets padding and margin for all elements to 0 so have to add as required */
+}
+
+body {
+  font-family: "Red Hat Display", "sans-serif";
+}
+
 /* <!--Feel free to remove these styles or customise in your own stylesheet 👍-- >  */
-  
-  .attribution {
+
+.attribution {
   font-size: 11px;
   text-align: center;
 }
